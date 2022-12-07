@@ -14,6 +14,7 @@ library(tibble)
 # to apply a function to each column of a tibble or each tibble in a list
 library(purrr)
 
+
 # Pearson's chi-squared test for independence
 # Question: Is the rate of reported major depressive episodes across the two years (2004 and 2018) 
 # associated with gender?

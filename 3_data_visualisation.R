@@ -27,8 +27,7 @@ library(forcats)
 library(ggthemes)
 # to perform proportion test
 library(rstatix)
-# to combine plots together
-library(cowplot)
+
 
 # Rate of Major Depressive Episodes (MDE) among youths across time in various demographic groups
 percents %>%
