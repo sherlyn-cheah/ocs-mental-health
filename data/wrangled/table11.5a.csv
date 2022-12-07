@@ -1,0 +1,131 @@
+Demographic,subgroup,data_type,Year,Number
+TOTAL,Total,Treatment_for_MDES,2006,627
+TOTAL,Total,Treatment_for_MDES,2007,601
+TOTAL,Total,Treatment_for_MDES,2008,622
+TOTAL,Total,Treatment_for_MDES,2009,542
+TOTAL,Total,Treatment_for_MDES,2010,554
+TOTAL,Total,Treatment_for_MDES,2011,602
+TOTAL,Total,Treatment_for_MDES,2012,633
+TOTAL,Total,Treatment_for_MDES,2013,832
+TOTAL,Total,Treatment_for_MDES,2014,882
+TOTAL,Total,Treatment_for_MDES,2015,945
+TOTAL,Total,Treatment_for_MDES,2016,1001
+TOTAL,Total,Treatment_for_MDES,2017,1074
+TOTAL,Total,Treatment_for_MDES,2018,1133
+Age: 12-13,Age,Treatment_for_MDES,2006,92
+Age: 12-13,Age,Treatment_for_MDES,2007,85
+Age: 12-13,Age,Treatment_for_MDES,2008,91
+Age: 12-13,Age,Treatment_for_MDES,2009,78
+Age: 12-13,Age,Treatment_for_MDES,2010,66
+Age: 12-13,Age,Treatment_for_MDES,2011,91
+Age: 12-13,Age,Treatment_for_MDES,2012,91
+Age: 12-13,Age,Treatment_for_MDES,2013,150
+Age: 12-13,Age,Treatment_for_MDES,2014,143
+Age: 12-13,Age,Treatment_for_MDES,2015,142
+Age: 12-13,Age,Treatment_for_MDES,2016,131
+Age: 12-13,Age,Treatment_for_MDES,2017,153
+Age: 12-13,Age,Treatment_for_MDES,2018,177
+Age: 14-15,Age,Treatment_for_MDES,2006,232
+Age: 14-15,Age,Treatment_for_MDES,2007,216
+Age: 14-15,Age,Treatment_for_MDES,2008,194
+Age: 14-15,Age,Treatment_for_MDES,2009,184
+Age: 14-15,Age,Treatment_for_MDES,2010,215
+Age: 14-15,Age,Treatment_for_MDES,2011,200
+Age: 14-15,Age,Treatment_for_MDES,2012,239
+Age: 14-15,Age,Treatment_for_MDES,2013,320
+Age: 14-15,Age,Treatment_for_MDES,2014,307
+Age: 14-15,Age,Treatment_for_MDES,2015,374
+Age: 14-15,Age,Treatment_for_MDES,2016,369
+Age: 14-15,Age,Treatment_for_MDES,2017,364
+Age: 14-15,Age,Treatment_for_MDES,2018,406
+Age: 16-17,Age,Treatment_for_MDES,2006,304
+Age: 16-17,Age,Treatment_for_MDES,2007,300
+Age: 16-17,Age,Treatment_for_MDES,2008,336
+Age: 16-17,Age,Treatment_for_MDES,2009,280
+Age: 16-17,Age,Treatment_for_MDES,2010,273
+Age: 16-17,Age,Treatment_for_MDES,2011,311
+Age: 16-17,Age,Treatment_for_MDES,2012,302
+Age: 16-17,Age,Treatment_for_MDES,2013,363
+Age: 16-17,Age,Treatment_for_MDES,2014,433
+Age: 16-17,Age,Treatment_for_MDES,2015,429
+Age: 16-17,Age,Treatment_for_MDES,2016,501
+Age: 16-17,Age,Treatment_for_MDES,2017,558
+Age: 16-17,Age,Treatment_for_MDES,2018,550
+Male,Gender,Treatment_for_MDES,2006,134
+Male,Gender,Treatment_for_MDES,2007,154
+Male,Gender,Treatment_for_MDES,2008,132
+Male,Gender,Treatment_for_MDES,2009,132
+Male,Gender,Treatment_for_MDES,2010,132
+Male,Gender,Treatment_for_MDES,2011,147
+Male,Gender,Treatment_for_MDES,2012,127
+Male,Gender,Treatment_for_MDES,2013,157
+Male,Gender,Treatment_for_MDES,2014,189
+Male,Gender,Treatment_for_MDES,2015,206
+Male,Gender,Treatment_for_MDES,2016,208
+Male,Gender,Treatment_for_MDES,2017,208
+Male,Gender,Treatment_for_MDES,2018,274
+Female,Gender,Treatment_for_MDES,2006,493
+Female,Gender,Treatment_for_MDES,2007,447
+Female,Gender,Treatment_for_MDES,2008,489
+Female,Gender,Treatment_for_MDES,2009,410
+Female,Gender,Treatment_for_MDES,2010,422
+Female,Gender,Treatment_for_MDES,2011,455
+Female,Gender,Treatment_for_MDES,2012,506
+Female,Gender,Treatment_for_MDES,2013,675
+Female,Gender,Treatment_for_MDES,2014,693
+Female,Gender,Treatment_for_MDES,2015,739
+Female,Gender,Treatment_for_MDES,2016,793
+Female,Gender,Treatment_for_MDES,2017,866
+Female,Gender,Treatment_for_MDES,2018,859
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2006,535
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2007,534
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2008,550
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2009,443
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2010,448
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2011,502
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2012,506
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2013,645
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2014,725
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2015,755
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2016,827
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2017,868
+Not Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2018,882
+White,Race/Ethnicity,Treatment_for_MDES,2006,432
+White,Race/Ethnicity,Treatment_for_MDES,2007,439
+White,Race/Ethnicity,Treatment_for_MDES,2008,461
+White,Race/Ethnicity,Treatment_for_MDES,2009,352
+White,Race/Ethnicity,Treatment_for_MDES,2010,380
+White,Race/Ethnicity,Treatment_for_MDES,2011,379
+White,Race/Ethnicity,Treatment_for_MDES,2012,403
+White,Race/Ethnicity,Treatment_for_MDES,2013,504
+White,Race/Ethnicity,Treatment_for_MDES,2014,572
+White,Race/Ethnicity,Treatment_for_MDES,2015,563
+White,Race/Ethnicity,Treatment_for_MDES,2016,668
+White,Race/Ethnicity,Treatment_for_MDES,2017,679
+White,Race/Ethnicity,Treatment_for_MDES,2018,695
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2006,53
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2007,72
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2008,65
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2009,58
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2010,42
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2011,82
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2012,56
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2013,72
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2014,99
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2015,97
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2016,71
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2017,97
+Black or African American,Race/Ethnicity,Treatment_for_MDES,2018,90
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2006,92
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2007,67
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2008,72
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2009,99
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2010,106
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2011,100
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2012,127
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2013,187
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2014,158
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2015,190
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2016,174
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2017,206
+Hispanic or Latino,Race/Ethnicity,Treatment_for_MDES,2018,251
