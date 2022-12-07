@@ -1,0 +1,290 @@
+MHS_setting,type,subtype,short_label,Year,Number
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2002,2898
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2003,3065
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2004,3348
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2005,3362
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2006,3255
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2007,3104
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2008,3129
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2009,2925
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2010,2920
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2011,3101
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2012,3118
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2013,3341
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2014,3369
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2015,3253
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2016,3598
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2017,3646
+SPECIALTY MENTAL HEALTH SERVICE,Specialty,Specialty_total,Specialty total,2018,3901
+Outpatient,Specialty,Outpatient,Outpatient total,2002,2662
+Outpatient,Specialty,Outpatient,Outpatient total,2003,2795
+Outpatient,Specialty,Outpatient,Outpatient total,2004,3015
+Outpatient,Specialty,Outpatient,Outpatient total,2005,3048
+Outpatient,Specialty,Outpatient,Outpatient total,2006,2931
+Outpatient,Specialty,Outpatient,Outpatient total,2007,2787
+Outpatient,Specialty,Outpatient,Outpatient total,2008,2837
+Outpatient,Specialty,Outpatient,Outpatient total,2009,2650
+Outpatient,Specialty,Outpatient,Outpatient total,2010,2635
+Outpatient,Specialty,Outpatient,Outpatient total,2011,2842
+Outpatient,Specialty,Outpatient,Outpatient total,2012,2846
+Outpatient,Specialty,Outpatient,Outpatient total,2013,3064
+Outpatient,Specialty,Outpatient,Outpatient total,2014,3110
+Outpatient,Specialty,Outpatient,Outpatient total,2015,2958
+Outpatient,Specialty,Outpatient,Outpatient total,2016,3239
+Outpatient,Specialty,Outpatient,Outpatient total,2017,3328
+Outpatient,Specialty,Outpatient,Outpatient total,2018,3547
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2002,2254
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2003,2347
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2004,2523
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2005,2573
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2006,2416
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2007,2365
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2008,2408
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2009,2296
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2010,2265
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2011,2409
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2012,2427
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2013,2572
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2014,2698
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2015,2532
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2016,2819
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2017,2908
+Private Therapist Psychologist Psychiatrist Social Worker or Counselor,Specialty,Outpatient,Therapist,2018,3080
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2002,611
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2003,635
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2004,716
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2005,657
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2006,587
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2007,583
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2008,567
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2009,537
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2010,547
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2011,547
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2012,610
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2013,731
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2014,760
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2015,792
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2016,929
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2017,995
+Mental Health Clinic or Center,Specialty,Outpatient,Clinic,2018,977
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2002,440
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2003,425
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2004,439
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2005,449
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2006,471
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2007,416
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2008,374
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2009,340
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2010,362
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2011,393
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2012,431
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2013,477
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2014,467
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2015,455
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2016,489
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2017,505
+Partial Day Hospital or Day Treatment Program,Specialty,Outpatient,Day program,2018,484
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2002,693
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2003,656
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2004,762
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2005,731
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2006,719
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2007,707
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2008,716
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2009,657
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2010,674
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2011,767
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2012,776
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2013,787
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2014,836
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2015,830
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2016,845
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2017,840
+InHome Therapist Counselor or Family Preservation Worker,Specialty,Outpatient,In-home therapist,2018,951
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2002,509
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2003,542
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2004,629
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2005,619
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2006,596
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2007,581
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2008,539
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2009,524
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2010,531
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2011,526
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2012,547
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2013,574
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2014,606
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2015,642
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2016,737
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2017,708
+Inpatient or Residential,Specialty,Inpatient,Inpatient total,2018,683
+Hospital,Specialty,Inpatient,Hospital,2002,422
+Hospital,Specialty,Inpatient,Hospital,2003,467
+Hospital,Specialty,Inpatient,Hospital,2004,515
+Hospital,Specialty,Inpatient,Hospital,2005,529
+Hospital,Specialty,Inpatient,Hospital,2006,516
+Hospital,Specialty,Inpatient,Hospital,2007,511
+Hospital,Specialty,Inpatient,Hospital,2008,469
+Hospital,Specialty,Inpatient,Hospital,2009,440
+Hospital,Specialty,Inpatient,Hospital,2010,447
+Hospital,Specialty,Inpatient,Hospital,2011,438
+Hospital,Specialty,Inpatient,Hospital,2012,463
+Hospital,Specialty,Inpatient,Hospital,2013,504
+Hospital,Specialty,Inpatient,Hospital,2014,547
+Hospital,Specialty,Inpatient,Hospital,2015,588
+Hospital,Specialty,Inpatient,Hospital,2016,666
+Hospital,Specialty,Inpatient,Hospital,2017,622
+Hospital,Specialty,Inpatient,Hospital,2018,608
+Residential Treatment Center,Specialty,Inpatient,Residential center,2002,224
+Residential Treatment Center,Specialty,Inpatient,Residential center,2003,233
+Residential Treatment Center,Specialty,Inpatient,Residential center,2004,299
+Residential Treatment Center,Specialty,Inpatient,Residential center,2005,229
+Residential Treatment Center,Specialty,Inpatient,Residential center,2006,225
+Residential Treatment Center,Specialty,Inpatient,Residential center,2007,199
+Residential Treatment Center,Specialty,Inpatient,Residential center,2008,198
+Residential Treatment Center,Specialty,Inpatient,Residential center,2009,213
+Residential Treatment Center,Specialty,Inpatient,Residential center,2010,217
+Residential Treatment Center,Specialty,Inpatient,Residential center,2011,240
+Residential Treatment Center,Specialty,Inpatient,Residential center,2012,238
+Residential Treatment Center,Specialty,Inpatient,Residential center,2013,206
+Residential Treatment Center,Specialty,Inpatient,Residential center,2014,252
+Residential Treatment Center,Specialty,Inpatient,Residential center,2015,271
+Residential Treatment Center,Specialty,Inpatient,Residential center,2016,311
+Residential Treatment Center,Specialty,Inpatient,Residential center,2017,318
+Residential Treatment Center,Specialty,Inpatient,Residential center,2018,300
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2002,NA
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2003,NA
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2004,NA
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2005,NA
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2006,NA
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2007,NA
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2008,NA
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2009,3430
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2010,3465
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2011,3463
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2012,3649
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2013,3634
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2014,3736
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2015,3691
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2016,3732
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2017,3810
+NONSPECIALTY MENTAL HEALTHSERVICE,Nonspecialty,Nonspecialty_total,Nonspecialty total,2018,3977
+Education,Nonspecialty,Education,School total,2002,NA
+Education,Nonspecialty,Education,School total,2003,NA
+Education,Nonspecialty,Education,School total,2004,NA
+Education,Nonspecialty,Education,School total,2005,NA
+Education,Nonspecialty,Education,School total,2006,NA
+Education,Nonspecialty,Education,School total,2007,NA
+Education,Nonspecialty,Education,School total,2008,NA
+Education,Nonspecialty,Education,School total,2009,2931
+Education,Nonspecialty,Education,School total,2010,2957
+Education,Nonspecialty,Education,School total,2011,2920
+Education,Nonspecialty,Education,School total,2012,3157
+Education,Nonspecialty,Education,School total,2013,3147
+Education,Nonspecialty,Education,School total,2014,3229
+Education,Nonspecialty,Education,School total,2015,3206
+Education,Nonspecialty,Education,School total,2016,3193
+Education,Nonspecialty,Education,School total,2017,3231
+Education,Nonspecialty,Education,School total,2018,3444
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2002,NA
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2003,NA
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2004,NA
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2005,NA
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2006,NA
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2007,NA
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2008,NA
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2009,2286
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2010,2214
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2011,2188
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2012,2389
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2013,2284
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2014,2379
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2015,2239
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2016,2278
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2017,2249
+School Social Worker School Psychologist or School Counselor,Nonspecialty,Education,School therapist,2018,2395
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2002,NA
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2003,NA
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2004,NA
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2005,NA
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2006,NA
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2007,NA
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2008,NA
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2009,975
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2010,1054
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2011,1063
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2012,1142
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2013,1218
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2014,1207
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2015,1357
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2016,1319
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2017,1345
+Special School or Program within a Regular School for Students with Emotional or Behavioral Problems,Nonspecialty,Education,School program,2018,1461
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2002,657
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2003,732
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2004,840
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2005,810
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2006,694
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2007,692
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2008,710
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2009,605
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2010,601
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2011,619
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2012,629
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2013,686
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2014,700
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2015,668
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2016,708
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2017,805
+Pediatrician or Other Family Doctor,Nonspecialty,General_medicine,Family doctor,2018,767
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2002,NA
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2003,NA
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2004,NA
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2005,NA
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2006,NA
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2007,NA
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2008,NA
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2009,109
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2010,80
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2011,103
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2012,83
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2013,59
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2014,63
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2015,53
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2016,53
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2017,45
+Juvenile Detention Center Prison or Jail,Nonspecialty,Juvenile_justice,Justice system,2018,48
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2002,157
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2003,179
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2004,158
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2005,143
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2006,129
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2007,114
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2008,118
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2009,92
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2010,108
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2011,140
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2012,96
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2013,99
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2014,92
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2015,79
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2016,108
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2017,92
+Foster Care or Therapeutic Foster Care,Nonspecialty,Child_welfare,Foster care,2018,94
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2002,NA
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2003,NA
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2004,NA
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2005,NA
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2006,NA
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2007,NA
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2008,NA
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2009,1226
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2010,1283
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2011,1328
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2012,1397
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2013,1490
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2014,1457
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2015,1408
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2016,1513
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2017,1615
+SPECIALTY MENTAL HEALTH SERVICESAND EDUCATION GENERAL MEDICINEOR CHILD WELFARE SERVICES,Nonspecialty,combination,Specialty combination,2018,1706

@@ -1,0 +1,571 @@
+Demographic,subgroup,data_type,Year,Percent
+TOTAL,Total,Major_Depressive_Episode,2004,9
+TOTAL,Total,Major_Depressive_Episode,2005,8.8
+TOTAL,Total,Major_Depressive_Episode,2006,7.9
+TOTAL,Total,Major_Depressive_Episode,2007,8.2
+TOTAL,Total,Major_Depressive_Episode,2008,8.3
+TOTAL,Total,Major_Depressive_Episode,2009,8.1
+TOTAL,Total,Major_Depressive_Episode,2010,8
+TOTAL,Total,Major_Depressive_Episode,2011,8.2
+TOTAL,Total,Major_Depressive_Episode,2012,9.1
+TOTAL,Total,Major_Depressive_Episode,2013,10.7
+TOTAL,Total,Major_Depressive_Episode,2014,11.4
+TOTAL,Total,Major_Depressive_Episode,2015,12.5
+TOTAL,Total,Major_Depressive_Episode,2016,12.8
+TOTAL,Total,Major_Depressive_Episode,2017,13.3
+TOTAL,Total,Major_Depressive_Episode,2018,14.4
+Age: 12-13,Age,Major_Depressive_Episode,2004,5.4
+Age: 12-13,Age,Major_Depressive_Episode,2005,5.2
+Age: 12-13,Age,Major_Depressive_Episode,2006,4.9
+Age: 12-13,Age,Major_Depressive_Episode,2007,4.3
+Age: 12-13,Age,Major_Depressive_Episode,2008,4.9
+Age: 12-13,Age,Major_Depressive_Episode,2009,4.6
+Age: 12-13,Age,Major_Depressive_Episode,2010,4.3
+Age: 12-13,Age,Major_Depressive_Episode,2011,4.1
+Age: 12-13,Age,Major_Depressive_Episode,2012,5.4
+Age: 12-13,Age,Major_Depressive_Episode,2013,6.1
+Age: 12-13,Age,Major_Depressive_Episode,2014,7.2
+Age: 12-13,Age,Major_Depressive_Episode,2015,7.8
+Age: 12-13,Age,Major_Depressive_Episode,2016,7.3
+Age: 12-13,Age,Major_Depressive_Episode,2017,6.9
+Age: 12-13,Age,Major_Depressive_Episode,2018,8.4
+Age: 14-15,Age,Major_Depressive_Episode,2004,9.2
+Age: 14-15,Age,Major_Depressive_Episode,2005,9.5
+Age: 14-15,Age,Major_Depressive_Episode,2006,7.9
+Age: 14-15,Age,Major_Depressive_Episode,2007,8.4
+Age: 14-15,Age,Major_Depressive_Episode,2008,8.5
+Age: 14-15,Age,Major_Depressive_Episode,2009,8.8
+Age: 14-15,Age,Major_Depressive_Episode,2010,9
+Age: 14-15,Age,Major_Depressive_Episode,2011,8.6
+Age: 14-15,Age,Major_Depressive_Episode,2012,10.2
+Age: 14-15,Age,Major_Depressive_Episode,2013,12.4
+Age: 14-15,Age,Major_Depressive_Episode,2014,11.9
+Age: 14-15,Age,Major_Depressive_Episode,2015,13.8
+Age: 14-15,Age,Major_Depressive_Episode,2016,13.3
+Age: 14-15,Age,Major_Depressive_Episode,2017,14.5
+Age: 14-15,Age,Major_Depressive_Episode,2018,15.3
+Age: 16-17,Age,Major_Depressive_Episode,2004,12.3
+Age: 16-17,Age,Major_Depressive_Episode,2005,11.5
+Age: 16-17,Age,Major_Depressive_Episode,2006,10.7
+Age: 16-17,Age,Major_Depressive_Episode,2007,11.5
+Age: 16-17,Age,Major_Depressive_Episode,2008,11.2
+Age: 16-17,Age,Major_Depressive_Episode,2009,10.4
+Age: 16-17,Age,Major_Depressive_Episode,2010,10.6
+Age: 16-17,Age,Major_Depressive_Episode,2011,11.7
+Age: 16-17,Age,Major_Depressive_Episode,2012,11.4
+Age: 16-17,Age,Major_Depressive_Episode,2013,13.2
+Age: 16-17,Age,Major_Depressive_Episode,2014,14.6
+Age: 16-17,Age,Major_Depressive_Episode,2015,15.5
+Age: 16-17,Age,Major_Depressive_Episode,2016,17.2
+Age: 16-17,Age,Major_Depressive_Episode,2017,17.7
+Age: 16-17,Age,Major_Depressive_Episode,2018,19
+Male,Gender,Major_Depressive_Episode,2004,5
+Male,Gender,Major_Depressive_Episode,2005,4.5
+Male,Gender,Major_Depressive_Episode,2006,4.2
+Male,Gender,Major_Depressive_Episode,2007,4.6
+Male,Gender,Major_Depressive_Episode,2008,4.3
+Male,Gender,Major_Depressive_Episode,2009,4.7
+Male,Gender,Major_Depressive_Episode,2010,4.4
+Male,Gender,Major_Depressive_Episode,2011,4.5
+Male,Gender,Major_Depressive_Episode,2012,4.7
+Male,Gender,Major_Depressive_Episode,2013,5.3
+Male,Gender,Major_Depressive_Episode,2014,5.7
+Male,Gender,Major_Depressive_Episode,2015,5.8
+Male,Gender,Major_Depressive_Episode,2016,6.4
+Male,Gender,Major_Depressive_Episode,2017,6.8
+Male,Gender,Major_Depressive_Episode,2018,7.7
+Female,Gender,Major_Depressive_Episode,2004,13.1
+Female,Gender,Major_Depressive_Episode,2005,13.3
+Female,Gender,Major_Depressive_Episode,2006,11.8
+Female,Gender,Major_Depressive_Episode,2007,11.9
+Female,Gender,Major_Depressive_Episode,2008,12.5
+Female,Gender,Major_Depressive_Episode,2009,11.7
+Female,Gender,Major_Depressive_Episode,2010,11.9
+Female,Gender,Major_Depressive_Episode,2011,12.1
+Female,Gender,Major_Depressive_Episode,2012,13.7
+Female,Gender,Major_Depressive_Episode,2013,16.2
+Female,Gender,Major_Depressive_Episode,2014,17.3
+Female,Gender,Major_Depressive_Episode,2015,19.5
+Female,Gender,Major_Depressive_Episode,2016,19.4
+Female,Gender,Major_Depressive_Episode,2017,20
+Female,Gender,Major_Depressive_Episode,2018,21.5
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2004,8.9
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2005,8.7
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2006,7.9
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2007,8.4
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2008,8.5
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2009,8.2
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2010,8.1
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2011,8.3
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2012,8.7
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2013,10.4
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2014,11.3
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2015,12.5
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2016,12.8
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2017,13.1
+Not Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2018,14.2
+White,Race/Ethnicity,Major_Depressive_Episode,2004,9.2
+White,Race/Ethnicity,Major_Depressive_Episode,2005,9.1
+White,Race/Ethnicity,Major_Depressive_Episode,2006,8.2
+White,Race/Ethnicity,Major_Depressive_Episode,2007,8.7
+White,Race/Ethnicity,Major_Depressive_Episode,2008,8.8
+White,Race/Ethnicity,Major_Depressive_Episode,2009,8.4
+White,Race/Ethnicity,Major_Depressive_Episode,2010,8.6
+White,Race/Ethnicity,Major_Depressive_Episode,2011,8.6
+White,Race/Ethnicity,Major_Depressive_Episode,2012,9.1
+White,Race/Ethnicity,Major_Depressive_Episode,2013,10.9
+White,Race/Ethnicity,Major_Depressive_Episode,2014,12
+White,Race/Ethnicity,Major_Depressive_Episode,2015,13.4
+White,Race/Ethnicity,Major_Depressive_Episode,2016,13.8
+White,Race/Ethnicity,Major_Depressive_Episode,2017,14
+White,Race/Ethnicity,Major_Depressive_Episode,2018,15.1
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2004,7.7
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2005,7.6
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2006,6.4
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2007,7.8
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2008,7.1
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2009,7.9
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2010,6.8
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2011,7
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2012,7.9
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2013,8.6
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2014,9.1
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2015,9
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2016,9.1
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2017,9.5
+Black or African American,Race/Ethnicity,Major_Depressive_Episode,2018,10.3
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2004,7.8
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2005,6.1
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2006,9.3
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2007,4.6
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2008,10.1
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2009,7.5
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2010,7.4
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2011,11.4
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2012,5.2
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2013,4.5
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2014,6.9
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2015,NA
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2016,11.5
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2017,16.3
+American Indian and Alaska Native,Race/Ethnicity,Major_Depressive_Episode,2018,15.2
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2004,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2005,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2006,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2007,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2008,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2009,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2010,1.8
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2011,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2012,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2013,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2014,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2015,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2016,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2017,NA
+Native Hawaiian or Other Pacific Islander,Race/Ethnicity,Major_Depressive_Episode,2018,NA
+Asian,Race/Ethnicity,Major_Depressive_Episode,2004,8.3
+Asian,Race/Ethnicity,Major_Depressive_Episode,2005,6
+Asian,Race/Ethnicity,Major_Depressive_Episode,2006,7.7
+Asian,Race/Ethnicity,Major_Depressive_Episode,2007,6.6
+Asian,Race/Ethnicity,Major_Depressive_Episode,2008,7.7
+Asian,Race/Ethnicity,Major_Depressive_Episode,2009,7.6
+Asian,Race/Ethnicity,Major_Depressive_Episode,2010,5.5
+Asian,Race/Ethnicity,Major_Depressive_Episode,2011,7.6
+Asian,Race/Ethnicity,Major_Depressive_Episode,2012,4.2
+Asian,Race/Ethnicity,Major_Depressive_Episode,2013,10.2
+Asian,Race/Ethnicity,Major_Depressive_Episode,2014,10.4
+Asian,Race/Ethnicity,Major_Depressive_Episode,2015,9.7
+Asian,Race/Ethnicity,Major_Depressive_Episode,2016,11.9
+Asian,Race/Ethnicity,Major_Depressive_Episode,2017,11.3
+Asian,Race/Ethnicity,Major_Depressive_Episode,2018,13.6
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2004,11.7
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2005,10.5
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2006,13
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2007,9.9
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2008,12
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2009,8
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2010,9.4
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2011,10.6
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2012,11.3
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2013,13
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2014,12.5
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2015,15.6
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2016,13.8
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2017,16.9
+Two or More Races,Race/Ethnicity,Major_Depressive_Episode,2018,17.7
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2004,9.1
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2005,9.1
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2006,8
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2007,7.1
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2008,7.5
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2009,7.7
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2010,7.8
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2011,8.1
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2012,10.5
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2013,11.4
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2014,11.5
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2015,12.6
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2016,12.7
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2017,13.8
+Hispanic or Latino,Race/Ethnicity,Major_Depressive_Episode,2018,15.1
+TOTAL,Total,Severe_Major_Depressive_Episode,2004,NA
+TOTAL,Total,Severe_Major_Depressive_Episode,2005,NA
+TOTAL,Total,Severe_Major_Depressive_Episode,2006,5.5
+TOTAL,Total,Severe_Major_Depressive_Episode,2007,5.5
+TOTAL,Total,Severe_Major_Depressive_Episode,2008,6
+TOTAL,Total,Severe_Major_Depressive_Episode,2009,5.8
+TOTAL,Total,Severe_Major_Depressive_Episode,2010,5.7
+TOTAL,Total,Severe_Major_Depressive_Episode,2011,5.7
+TOTAL,Total,Severe_Major_Depressive_Episode,2012,6.3
+TOTAL,Total,Severe_Major_Depressive_Episode,2013,7.7
+TOTAL,Total,Severe_Major_Depressive_Episode,2014,8.2
+TOTAL,Total,Severe_Major_Depressive_Episode,2015,8.8
+TOTAL,Total,Severe_Major_Depressive_Episode,2016,9
+TOTAL,Total,Severe_Major_Depressive_Episode,2017,9.4
+TOTAL,Total,Severe_Major_Depressive_Episode,2018,10
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2004,NA
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2005,NA
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2006,2.7
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2007,2.5
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2008,3.2
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2009,3.2
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2010,3
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2011,2.8
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2012,3.7
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2013,4.1
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2014,4.9
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2015,5.1
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2016,4.7
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2017,4.4
+Age: 12-13,Age,Severe_Major_Depressive_Episode,2018,5.1
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2004,NA
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2005,NA
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2006,6
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2007,6
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2008,6.1
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2009,6.2
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2010,6.1
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2011,5.9
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2012,7.1
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2013,9.1
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2014,8.5
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2015,9.8
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2016,9.4
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2017,10.4
+Age: 14-15,Age,Severe_Major_Depressive_Episode,2018,10.9
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2004,NA
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2005,NA
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2006,7.5
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2007,7.9
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2008,8.4
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2009,7.7
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2010,7.7
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2011,8.1
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2012,8
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2013,9.7
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2014,10.9
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2015,11.1
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2016,12.4
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2017,12.7
+Age: 16-17,Age,Severe_Major_Depressive_Episode,2018,13.7
+Male,Gender,Severe_Major_Depressive_Episode,2004,NA
+Male,Gender,Severe_Major_Depressive_Episode,2005,NA
+Male,Gender,Severe_Major_Depressive_Episode,2006,2.6
+Male,Gender,Severe_Major_Depressive_Episode,2007,3
+Male,Gender,Severe_Major_Depressive_Episode,2008,2.9
+Male,Gender,Severe_Major_Depressive_Episode,2009,3.2
+Male,Gender,Severe_Major_Depressive_Episode,2010,3.2
+Male,Gender,Severe_Major_Depressive_Episode,2011,3.2
+Male,Gender,Severe_Major_Depressive_Episode,2012,3
+Male,Gender,Severe_Major_Depressive_Episode,2013,3.5
+Male,Gender,Severe_Major_Depressive_Episode,2014,3.7
+Male,Gender,Severe_Major_Depressive_Episode,2015,3.8
+Male,Gender,Severe_Major_Depressive_Episode,2016,4.4
+Male,Gender,Severe_Major_Depressive_Episode,2017,4.7
+Male,Gender,Severe_Major_Depressive_Episode,2018,5.1
+Female,Gender,Severe_Major_Depressive_Episode,2004,NA
+Female,Gender,Severe_Major_Depressive_Episode,2005,NA
+Female,Gender,Severe_Major_Depressive_Episode,2006,8.4
+Female,Gender,Severe_Major_Depressive_Episode,2007,8.2
+Female,Gender,Severe_Major_Depressive_Episode,2008,9.3
+Female,Gender,Severe_Major_Depressive_Episode,2009,8.6
+Female,Gender,Severe_Major_Depressive_Episode,2010,8.2
+Female,Gender,Severe_Major_Depressive_Episode,2011,8.3
+Female,Gender,Severe_Major_Depressive_Episode,2012,9.8
+Female,Gender,Severe_Major_Depressive_Episode,2013,12
+Female,Gender,Severe_Major_Depressive_Episode,2014,13
+Female,Gender,Severe_Major_Depressive_Episode,2015,14
+Female,Gender,Severe_Major_Depressive_Episode,2016,13.7
+Female,Gender,Severe_Major_Depressive_Episode,2017,14.2
+Female,Gender,Severe_Major_Depressive_Episode,2018,15.2
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2004,NA
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2005,NA
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2006,5.5
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2007,5.7
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2008,6.2
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2009,5.9
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2010,5.7
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2011,5.8
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2012,6.1
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2013,7.6
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2014,8.2
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2015,8.9
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2016,9.2
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2017,9.2
+Not Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2018,10.1
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2004,NA
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2005,NA
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2006,5.8
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2007,5.9
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2008,6.5
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2009,6.1
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2010,6.2
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2011,5.9
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2012,6.5
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2013,7.8
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2014,8.9
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2015,9.7
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2016,10
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2017,9.8
+White,Race/Ethnicity,Severe_Major_Depressive_Episode,2018,10.7
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2004,NA
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2005,NA
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2006,3.9
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2007,5.1
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2008,4.6
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2009,5.7
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2010,4.5
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2011,5.4
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2012,4.8
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2013,6.2
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2014,6.4
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2015,5.9
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2016,6
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2017,7.1
+Black or African American,Race/Ethnicity,Severe_Major_Depressive_Episode,2018,6.9
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2004,NA
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2005,NA
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2006,6.6
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2007,2.6
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2008,6.5
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2009,4.3
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2010,5.4
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2011,9.8
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2012,2.6
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2013,3.8
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2014,4.9
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2015,NA
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2016,5.7
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2017,3.9
+American Indian and Alaska Native,Race/Ethnicity,Severe_Major_Depressive_Episode,2018,NA
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2004,NA
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2005,NA
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2006,5.3
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2007,3.9
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2008,4.7
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2009,5
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2010,4.3
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2011,5
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2012,2.6
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2013,8.1
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2014,6.6
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2015,5.5
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2016,9.3
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2017,7.9
+Asian,Race/Ethnicity,Severe_Major_Depressive_Episode,2018,9.2
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2004,NA
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2005,NA
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2006,8
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2007,7.8
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2008,10.2
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2009,6
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2010,5.9
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2011,8.1
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2012,9
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2013,8.4
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2014,8.9
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2015,12.6
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2016,10.9
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2017,10.9
+Two or More Races,Race/Ethnicity,Severe_Major_Depressive_Episode,2018,14.2
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2004,NA
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2005,NA
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2006,5.4
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2007,5.1
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2008,5.1
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2009,5.4
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2010,5.4
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2011,5.2
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2012,7.3
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2013,8.2
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2014,8.2
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2015,8.5
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2016,8.2
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2017,9.9
+Hispanic or Latino,Race/Ethnicity,Severe_Major_Depressive_Episode,2018,10
+TOTAL,Total,Treatment,2004,40.3
+TOTAL,Total,Treatment,2005,37.8
+TOTAL,Total,Treatment,2006,38.8
+TOTAL,Total,Treatment,2007,39
+TOTAL,Total,Treatment,2008,37.7
+TOTAL,Total,Treatment,2009,34.6
+TOTAL,Total,Treatment,2010,37.8
+TOTAL,Total,Treatment,2011,38.4
+TOTAL,Total,Treatment,2012,37
+TOTAL,Total,Treatment,2013,38.1
+TOTAL,Total,Treatment,2014,41.2
+TOTAL,Total,Treatment,2015,39.3
+TOTAL,Total,Treatment,2016,40.9
+TOTAL,Total,Treatment,2017,41.5
+TOTAL,Total,Treatment,2018,41.4
+Age: 12-13,Age,Treatment,2004,38.2
+Age: 12-13,Age,Treatment,2005,32.9
+Age: 12-13,Age,Treatment,2006,35.1
+Age: 12-13,Age,Treatment,2007,41.5
+Age: 12-13,Age,Treatment,2008,33.5
+Age: 12-13,Age,Treatment,2009,30
+Age: 12-13,Age,Treatment,2010,32.5
+Age: 12-13,Age,Treatment,2011,36.3
+Age: 12-13,Age,Treatment,2012,30.7
+Age: 12-13,Age,Treatment,2013,39.1
+Age: 12-13,Age,Treatment,2014,35.9
+Age: 12-13,Age,Treatment,2015,31.9
+Age: 12-13,Age,Treatment,2016,35.3
+Age: 12-13,Age,Treatment,2017,37.6
+Age: 12-13,Age,Treatment,2018,40.7
+Age: 14-15,Age,Treatment,2004,35.5
+Age: 14-15,Age,Treatment,2005,41.1
+Age: 14-15,Age,Treatment,2006,38.4
+Age: 14-15,Age,Treatment,2007,36.8
+Age: 14-15,Age,Treatment,2008,33.6
+Age: 14-15,Age,Treatment,2009,33.2
+Age: 14-15,Age,Treatment,2010,38.4
+Age: 14-15,Age,Treatment,2011,36.3
+Age: 14-15,Age,Treatment,2012,36.6
+Age: 14-15,Age,Treatment,2013,37.2
+Age: 14-15,Age,Treatment,2014,40.1
+Age: 14-15,Age,Treatment,2015,40.6
+Age: 14-15,Age,Treatment,2016,41.3
+Age: 14-15,Age,Treatment,2017,37.9
+Age: 14-15,Age,Treatment,2018,41.2
+Age: 16-17,Age,Treatment,2004,45
+Age: 16-17,Age,Treatment,2005,37.1
+Age: 16-17,Age,Treatment,2006,40.7
+Age: 16-17,Age,Treatment,2007,39.8
+Age: 16-17,Age,Treatment,2008,42.4
+Age: 16-17,Age,Treatment,2009,37.5
+Age: 16-17,Age,Treatment,2010,39.3
+Age: 16-17,Age,Treatment,2011,40.5
+Age: 16-17,Age,Treatment,2012,40
+Age: 16-17,Age,Treatment,2013,38.6
+Age: 16-17,Age,Treatment,2014,44.4
+Age: 16-17,Age,Treatment,2015,41.5
+Age: 16-17,Age,Treatment,2016,42.6
+Age: 16-17,Age,Treatment,2017,45.8
+Age: 16-17,Age,Treatment,2018,41.8
+Male,Gender,Treatment,2004,37.7
+Male,Gender,Treatment,2005,34.1
+Male,Gender,Treatment,2006,35.3
+Male,Gender,Treatment,2007,36.7
+Male,Gender,Treatment,2008,34
+Male,Gender,Treatment,2009,29.2
+Male,Gender,Treatment,2010,32
+Male,Gender,Treatment,2011,35.3
+Male,Gender,Treatment,2012,28.3
+Male,Gender,Treatment,2013,29.7
+Male,Gender,Treatment,2014,37.7
+Male,Gender,Treatment,2015,36.3
+Male,Gender,Treatment,2016,33.5
+Male,Gender,Treatment,2017,32.5
+Male,Gender,Treatment,2018,37.5
+Female,Gender,Treatment,2004,41.3
+Female,Gender,Treatment,2005,39
+Female,Gender,Treatment,2006,40.2
+Female,Gender,Treatment,2007,40
+Female,Gender,Treatment,2008,39.1
+Female,Gender,Treatment,2009,36.9
+Female,Gender,Treatment,2010,40.1
+Female,Gender,Treatment,2011,39.5
+Female,Gender,Treatment,2012,40.1
+Female,Gender,Treatment,2013,40.9
+Female,Gender,Treatment,2014,42.4
+Female,Gender,Treatment,2015,40.3
+Female,Gender,Treatment,2016,43.4
+Female,Gender,Treatment,2017,44.8
+Female,Gender,Treatment,2018,42.9
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2004,41
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2005,39
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2006,39.5
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2007,41.1
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2008,39.3
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2009,35
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2010,37.6
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2011,40.7
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2012,39
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2013,38.5
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2014,43.5
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2015,40.5
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2016,42.9
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2017,44.4
+Not Hispanic or Latino,Race/Ethnicity,Treatment,2018,42.6
+White,Race/Ethnicity,Treatment,2004,44.9
+White,Race/Ethnicity,Treatment,2005,39.3
+White,Race/Ethnicity,Treatment,2006,41.3
+White,Race/Ethnicity,Treatment,2007,42.7
+White,Race/Ethnicity,Treatment,2008,43.1
+White,Race/Ethnicity,Treatment,2009,37.7
+White,Race/Ethnicity,Treatment,2010,41.1
+White,Race/Ethnicity,Treatment,2011,41.4
+White,Race/Ethnicity,Treatment,2012,40.7
+White,Race/Ethnicity,Treatment,2013,41.6
+White,Race/Ethnicity,Treatment,2014,46.1
+White,Race/Ethnicity,Treatment,2015,40.6
+White,Race/Ethnicity,Treatment,2016,45.1
+White,Race/Ethnicity,Treatment,2017,47.5
+White,Race/Ethnicity,Treatment,2018,46.1
+Black or African American,Race/Ethnicity,Treatment,2004,28.9
+Black or African American,Race/Ethnicity,Treatment,2005,39.3
+Black or African American,Race/Ethnicity,Treatment,2006,29.1
+Black or African American,Race/Ethnicity,Treatment,2007,39.7
+Black or African American,Race/Ethnicity,Treatment,2008,32.4
+Black or African American,Race/Ethnicity,Treatment,2009,23.9
+Black or African American,Race/Ethnicity,Treatment,2010,23
+Black or African American,Race/Ethnicity,Treatment,2011,41
+Black or African American,Race/Ethnicity,Treatment,2012,33.5
+Black or African American,Race/Ethnicity,Treatment,2013,28.6
+Black or African American,Race/Ethnicity,Treatment,2014,40.6
+Black or African American,Race/Ethnicity,Treatment,2015,42
+Black or African American,Race/Ethnicity,Treatment,2016,34.5
+Black or African American,Race/Ethnicity,Treatment,2017,35.1
+Black or African American,Race/Ethnicity,Treatment,2018,34.6
+Two or More Races,Race/Ethnicity,Treatment,2004,NA
+Two or More Races,Race/Ethnicity,Treatment,2005,NA
+Two or More Races,Race/Ethnicity,Treatment,2006,NA
+Two or More Races,Race/Ethnicity,Treatment,2007,NA
+Two or More Races,Race/Ethnicity,Treatment,2008,NA
+Two or More Races,Race/Ethnicity,Treatment,2009,NA
+Two or More Races,Race/Ethnicity,Treatment,2010,NA
+Two or More Races,Race/Ethnicity,Treatment,2011,NA
+Two or More Races,Race/Ethnicity,Treatment,2012,NA
+Two or More Races,Race/Ethnicity,Treatment,2013,NA
+Two or More Races,Race/Ethnicity,Treatment,2014,NA
+Two or More Races,Race/Ethnicity,Treatment,2015,46.7
+Two or More Races,Race/Ethnicity,Treatment,2016,NA
+Two or More Races,Race/Ethnicity,Treatment,2017,44.8
+Two or More Races,Race/Ethnicity,Treatment,2018,34.8
+Hispanic or Latino,Race/Ethnicity,Treatment,2004,36.8
+Hispanic or Latino,Race/Ethnicity,Treatment,2005,31.8
+Hispanic or Latino,Race/Ethnicity,Treatment,2006,35.9
+Hispanic or Latino,Race/Ethnicity,Treatment,2007,28.2
+Hispanic or Latino,Race/Ethnicity,Treatment,2008,30.4
+Hispanic or Latino,Race/Ethnicity,Treatment,2009,33
+Hispanic or Latino,Race/Ethnicity,Treatment,2010,38.4
+Hispanic or Latino,Race/Ethnicity,Treatment,2011,29.4
+Hispanic or Latino,Race/Ethnicity,Treatment,2012,30.8
+Hispanic or Latino,Race/Ethnicity,Treatment,2013,36.9
+Hispanic or Latino,Race/Ethnicity,Treatment,2014,33.1
+Hispanic or Latino,Race/Ethnicity,Treatment,2015,35.5
+Hispanic or Latino,Race/Ethnicity,Treatment,2016,34.1
+Hispanic or Latino,Race/Ethnicity,Treatment,2017,32.7
+Hispanic or Latino,Race/Ethnicity,Treatment,2018,37.9
