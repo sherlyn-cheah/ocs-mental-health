@@ -1,9 +1,4 @@
-# This project is based on a case study "Open Case Studies: Mental Health of American Youth"
-# Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, 
-# Stephanie C. (2020). https://github.com/opencasestudies/ocs-bp-youth-mental-health. 
-# Mental Health of American Youth.
-
-# Data is from the US National Survey on Drug Use and Health (NSDUH)
+## Section 3: Data Visualisation
 
 # to easily load and save data
 library(here)
@@ -35,7 +30,6 @@ library(rstatix)
 # to combine plots together
 library(cowplot)
 
-## Section 3: Data Visualisation
 # Rate of Major Depressive Episodes (MDE) among youths across time in various demographic groups
 percents %>%
   filter(data_type == "Major_Depressive_Episode") %>%

@@ -1,9 +1,4 @@
-# This project is based on a case study "Open Case Studies: Mental Health of American Youth"
-# Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, 
-# Stephanie C. (2020). https://github.com/opencasestudies/ocs-bp-youth-mental-health. 
-# Mental Health of American Youth.
-
-# Data is from the US National Survey on Drug Use and Health (NSDUH)
+## Section 2: Wrangling data
 
 # to easily load and save data
 library(here)
@@ -23,7 +18,6 @@ library(purrr)
 # write csv files
 library(readr)
 
-## Section 2: Wrangling data
 # convert df into tibble
 table11.1a %>%
   as_tibble()

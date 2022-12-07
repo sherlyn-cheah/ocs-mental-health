@@ -1,16 +1,10 @@
-# This project is based on a case study "Open Case Studies: Mental Health of American Youth"
-# Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, 
-# Stephanie C. (2020). https://github.com/opencasestudies/ocs-bp-youth-mental-health. 
-# Mental Health of American Youth.
-
-# Data is from the US National Survey on Drug Use and Health (NSDUH)
+## Section 1: Scraping data
 
 # to easily load and save data
 library(here)
 # to scrape web pages
 library(rvest)
 
-## Section 1: Scraping data
 # webpage location of data
 url <- "https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHDetailedTabs2018R2/NSDUHDetTabsSect11pe2018.htm"
 

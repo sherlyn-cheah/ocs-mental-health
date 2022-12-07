@@ -1,9 +1,4 @@
-# This project is based on a case study "Open Case Studies: Mental Health of American Youth"
-# Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, 
-# Stephanie C. (2020). https://github.com/opencasestudies/ocs-bp-youth-mental-health. 
-# Mental Health of American Youth.
-
-# Data is from the US National Survey on Drug Use and Health (NSDUH)
+## Section 4: Data Analysis
 
 # to subset and filter the data for specific groups, to replace specific values 
 # with NA, rename variables, and perform functions on multiple variables
@@ -19,7 +14,6 @@ library(tibble)
 # to apply a function to each column of a tibble or each tibble in a list
 library(purrr)
 
-## Section 4: Data Analysis
 # Pearson's chi-squared test for independence
 # Question: Is the rate of reported major depressive episodes across the two years (2004 and 2018) 
 # associated with gender?
