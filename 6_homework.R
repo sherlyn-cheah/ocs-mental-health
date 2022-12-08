@@ -117,8 +117,8 @@ MDES_treatment_age <- direct.label(MDES_treatment_age, list(dl.trans(y = y + 0.5
                                                                 cex = .8, 
                                                                 fontface = c("bold"),
                                                                 dl.move("Age: 14-15", y = 43),
- 
-                                                                                                                           dl.move("Age: 12-13", y = 36)))
+                                                                dl.move("Age: 12-13", y = 36)))
+
 # save MDES_treatment_age plot
 save(MDES_treatment_age, file = here("plots", "MDES_treatment_age.rda"))
 png(here("plots", "MDES_treatment_age.png"))
